@@ -1,0 +1,14 @@
+com\edu\sena\restauranteweb\servlets\SvPlatos.class
+com\edu\sena\restauranteweb\exceptions\PreexistingEntityException.class
+com\edu\sena\restauranteweb\logica\Platos_.class
+com\edu\sena\restauranteweb\persistencia\exceptions\PreexistingEntityException.class
+com\edu\sena\restauranteweb\persistencia\ControladoraPersistencia.class
+com\edu\sena\restauranteweb\exceptions\IllegalOrphanException.class
+com\edu\sena\restauranteweb\JakartaRestConfiguration.class
+com\edu\sena\restauranteweb\resources\JakartaEE8Resource.class
+com\edu\sena\restauranteweb\exceptions\NonexistentEntityException.class
+com\edu\sena\restauranteweb\persistencia\exceptions\NonexistentEntityException.class
+com\edu\sena\restauranteweb\logica\Platos.class
+com\edu\sena\restauranteweb\persistencia\exceptions\IllegalOrphanException.class
+com\edu\sena\restauranteweb\persistencia\PlatosJpaController.class
+com\edu\sena\restauranteweb\logica\Controladora.class
